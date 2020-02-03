@@ -1,0 +1,3 @@
+D:/clion cfile/fastest player/cmake-build-debug/CMakeFiles/fastest_player.dir
+D:/clion cfile/fastest player/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion cfile/fastest player/cmake-build-debug/CMakeFiles/rebuild_cache.dir
